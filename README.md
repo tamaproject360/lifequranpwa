@@ -1,4 +1,4 @@
-# ✨ LifeQuran PWA
+# ✨ LifeQuran
 
 > **Istiqomah Setiap Hari** — A Progressive Web App for Digital Quran Reading with Gamification
 
@@ -276,8 +276,8 @@ MIT License © 2026 LifeQuran Contributors
 
 ## 📞 Support & Feedback
 
-- 📧 Email: [support email belum diisi]
-- 🌐 Website: [website belum diisi]
+- 📧 Email: [tamaproject360@gmail.com]
+- 🌐 Website: [https://github.com/tamaproject360/lifequranpwa]
 - 💬 Issues: [GitHub Issues](https://github.com/tamaproject360/lifequranpwa/issues)
 - 💡 Discussions: [GitHub Discussions](https://github.com/tamaproject360/lifequranpwa/discussions)
 
