@@ -1,5 +1,4 @@
 import React, { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react';
-import { supabase } from '../lib/supabase';
 import { UserProfile, Bookmark, DailyChallenge, Achievement, TabName, AppView, UserSettings } from '../types';
 import { LEVELS } from '../data/surahs';
 import { translations, Language, TranslationKeys } from '../i18n/translations';

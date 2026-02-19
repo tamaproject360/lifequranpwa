@@ -1,6 +1,6 @@
-import { createClient } from '@supabase/supabase-js';
+// Supabase telah dihapus - aplikasi berjalan sepenuhnya offline
+// Data disimpan di localStorage dan di-cache oleh Service Worker (vite-plugin-pwa)
+// Lihat: src/services/quranApi.ts untuk cache strategy
+// Lihat: src/context/AppContext.tsx untuk penyimpanan profil & progress
 
-const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
-const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
-
-export const supabase = createClient(supabaseUrl, supabaseAnonKey);
+export {}; // file ini tidak digunakan lagi
